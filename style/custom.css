@@ -14,3 +14,8 @@ textarea {
     float: left;
     margin: 5px;
 }
+
+.carousel-img{
+    width: 50%;
+    margin-inline: auto;
+}
